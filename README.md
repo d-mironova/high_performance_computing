@@ -2,9 +2,7 @@
 
 This is a repository for the projects I completed related to high performance computing. The running instructions are stated in report files in the corresponding project directory.
 
-## Course Overview
-
-This repository contains my projects and exercises for the High-Performance Computing (HPC) course. The course covers:
+## Projects' skills Overview
 
 - **Linux Programming Tools**: Compilation, make utility, debugging, and profiling.
 - **Code Optimization**: Techniques to optimize code for performance.

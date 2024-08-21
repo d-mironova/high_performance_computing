@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+*.out
+*.a
+*.so
+
+# Compiled dynamic libraries
+*.dll
+*.dylib
+
+# Executables
+*.exe
+
+# Directories
+output/
+tmp/
+

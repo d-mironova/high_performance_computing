@@ -1,0 +1,11 @@
+Time: 0 Total Energy: 4.25422 Potential Energy: 0 Kinetic Energy: 4.25422
+Time: 1 Total Energy: 4.26812 Potential Energy: 2.99093 Kinetic Energy: 1.27719
+Time: 2 Total Energy: 4.25131 Potential Energy: 1.54505 Kinetic Energy: 2.70626
+Time: 3 Total Energy: 4.28324 Potential Energy: 2.4934 Kinetic Energy: 1.78985
+Time: 4 Total Energy: 4.22513 Potential Energy: 2.74087 Kinetic Energy: 1.48425
+Time: 5 Total Energy: 4.26751 Potential Energy: 1.49725 Kinetic Energy: 2.77027
+Time: 6 Total Energy: 4.24074 Potential Energy: 3.40176 Kinetic Energy: 0.838977
+Time: 7 Total Energy: 4.24359 Potential Energy: 0.928154 Kinetic Energy: 3.31543
+Time: 8 Total Energy: 4.25647 Potential Energy: 2.86141 Kinetic Energy: 1.39506
+Time: 9 Total Energy: 4.23598 Potential Energy: 1.09609 Kinetic Energy: 3.13988
+Simulation completed in 0.15163 seconds

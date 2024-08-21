@@ -1,0 +1,84 @@
+This is the output for 2560:
+
+Run 1 - Time: 7.65795 seconds
+Run 2 - Time: 7.27435 seconds
+Run 3 - Time: 6.85819 seconds
+Run 4 - Time: 6.85529 seconds
+Run 5 - Time: 6.88105 seconds
+Run 6 - Time: 6.85262 seconds
+Run 7 - Time: 6.85241 seconds
+Run 8 - Time: 6.85283 seconds
+Run 9 - Time: 6.8523 seconds
+Run 10 - Time: 6.85275 seconds
+Average Time: 6.97897 seconds
+Standard Deviation: 0.258381 seconds
+
+Run 1 - Time: 26.5984 seconds
+Run 2 - Time: 26.6747 seconds
+Run 3 - Time: 26.6099 seconds
+Run 4 - Time: 26.5703 seconds
+Run 5 - Time: 26.5713 seconds
+Run 6 - Time: 26.5803 seconds
+Run 7 - Time: 26.5638 seconds
+Run 8 - Time: 27.1947 seconds
+Run 9 - Time: 26.5751 seconds
+Run 10 - Time: 26.6312 seconds
+Average Time: 26.657 seconds
+Standard Deviation: 0.182187 seconds
+
+This is the output for 128:
+
+Run 1 - Time: 0.358459 seconds
+Run 2 - Time: 0.352781 seconds
+Run 3 - Time: 0.350981 seconds
+Run 4 - Time: 0.351824 seconds
+Run 5 - Time: 0.352 seconds
+Run 6 - Time: 0.351796 seconds
+Run 7 - Time: 0.349465 seconds
+Run 8 - Time: 0.351551 seconds
+Run 9 - Time: 0.352033 seconds
+Run 10 - Time: 0.3522 seconds
+Average Time: 0.352309 seconds
+Standard Deviation: 0.00221706 seconds
+
+Run 1 - Time: 1.58418 seconds
+Run 2 - Time: 1.6108 seconds
+Run 3 - Time: 1.67779 seconds
+Run 4 - Time: 1.58511 seconds
+Run 5 - Time: 1.97113 seconds
+Run 6 - Time: 1.58684 seconds
+Run 7 - Time: 2.07237 seconds
+Run 8 - Time: 1.63226 seconds
+Run 9 - Time: 1.66329 seconds
+Run 10 - Time: 1.62358 seconds
+Average Time: 1.70073 seconds
+Standard Deviation: 0.164869 seconds
+
+This is the output for 32:
+
+Run 1 - Time: 0.114291 seconds
+Run 2 - Time: 0.102936 seconds
+Run 3 - Time: 0.102868 seconds
+Run 4 - Time: 0.10277 seconds
+Run 5 - Time: 0.102942 seconds
+Run 6 - Time: 0.103005 seconds
+Run 7 - Time: 0.10289 seconds
+Run 8 - Time: 0.102798 seconds
+Run 9 - Time: 0.102855 seconds
+Run 10 - Time: 0.103125 seconds
+Average Time: 0.104048 seconds
+Standard Deviation: 0.00341571 seconds
+
+Run 1 - Time: 0.363355 seconds
+Run 2 - Time: 0.35249 seconds
+Run 3 - Time: 0.349617 seconds
+Run 4 - Time: 0.349968 seconds
+Run 5 - Time: 0.349747 seconds
+Run 6 - Time: 0.472246 seconds
+Run 7 - Time: 0.410135 seconds
+Run 8 - Time: 0.349763 seconds
+Run 9 - Time: 0.349549 seconds
+Run 10 - Time: 0.349571 seconds
+Average Time: 0.369644 seconds
+Standard Deviation: 0.0385832 seconds
+

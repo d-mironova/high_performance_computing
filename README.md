@@ -1,6 +1,6 @@
 # High Performance Computing 
 
-This is a repository for the projects I completed related to high performance computing.
+This is a repository for the projects I completed related to high performance computing. The running instructions are stated in report files in the corresponding project directory.
 
 ## Course Overview
 
